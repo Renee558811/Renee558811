@@ -120,7 +120,9 @@
 
 **技术栈：** Python · MATLAB · Data Analysis · AI Workflow
 
-[查看项目仓库](https://github.com/YOUR_USERNAME/sciflow-agent)
+[▶ 在线体验 SciFlow Agent](https://renee558811.github.io/sciflow-agent/)
+
+[查看源代码仓库](https://github.com/Renee558811/sciflow-agent)
 
 ---
 

@@ -143,7 +143,9 @@
 
 **技术栈：** AI Agent · Research Workflow · Knowledge Management · Python
 
-[查看项目仓库](https://github.com/YOUR_USERNAME/researchops-agent)
+[在线体验 ResearchOps Agent](https://renee558811.github.io/researchops-agent/)
+
+[查看源代码仓库](https://github.com/Renee558811/researchops-agent)
 
 ---
 

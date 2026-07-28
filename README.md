@@ -166,8 +166,9 @@
 
 **技术栈：** AI Agent · Requirement Analysis · Project Management · Solution Design
 
-[查看项目仓库](https://github.com/YOUR_USERNAME/govsolution-agent)
+[在线体验 GovSolution Agent](https://renee558811.github.io/govsolution-agent/)
 
+[查看源代码仓库](https://github.com/Renee558811/govsolution-agent)
 ---
 
 ### 4. 量子生物检测与微流控平台
